@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db5d251a-ce88-41cb-bb90-5a1efb54922c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Canada_per_capital_income.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SavingModelDemo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/areas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/canada_per_capita_income.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hiring.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/homePrices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/housePrices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/test_score.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/town_price.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/vehicle_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/vehicle_stats.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get_dummies_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get_dummies_pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient_descent.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient_descent_exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linear_regression _Single_Variable.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../model_pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multivariate_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multivariate_regression_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_hot_encoder.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_hot_encoder_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train_test.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3ASxNJi3g3d0Fr5v3yf4woO1glN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5d251a-ce88-41cb-bb90-5a1efb54922c" name="Changes" comment="" />
+      <created>1772599732890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772599732890</updated>
+      <workItem from="1772599734238" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
